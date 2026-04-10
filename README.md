@@ -84,6 +84,12 @@ Tools (Suggested)
 
  Folder Structure
 
+ ![WhatsApp Image 2026-04-10 at 4 03 11 PM](https://github.com/user-attachments/assets/a7a26f1d-41cb-442c-900b-3479112b3f93)
+
+ ![WhatsApp Image 2026-04-10 at 4 03 44 PM](https://github.com/user-attachments/assets/42aed7d8-2e9c-44ee-86a9-5ff9921eae00)
+
+
+
 HR-Branding-Visuals/
 │
 ├── posters/
