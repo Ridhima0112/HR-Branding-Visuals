@@ -3,8 +3,11 @@ Overview
 This repository contains professionally designed HR branding posters focused on:
 
 .Employee Benefits 
+
 .Learning & Development 
+
 .Career Growth 
+
 .Inclusion & Diversity 
 
 These visuals are created to enhance employer branding and communicate a strong, people-first workplace culture.
@@ -18,8 +21,11 @@ Title: More Than a Job – A Complete Career Experience
 Highlights:
 
 .Comprehensive Employee Benefits
+
 .Continuous Learning Opportunities
+
 .Career Growth & Leadership Development
+
 .Modern Office Environment
 
 Purpose:
@@ -33,8 +39,11 @@ Title: Inclusion is Our Strength
 Highlights:
 
 .Diverse workforce representation
+
 .Equal opportunities
+
 .Inclusive workplace culture
+
 .Sense of belonging
 
 Purpose:
@@ -44,23 +53,33 @@ To promote diversity, fairness, and inclusivity within the organization.
 Design Elements Used
 
 .Modern corporate office backgrounds
+
 .Clean typography and bold headings
+
 .Icon-based information sections
+
 .Diverse employee representation
+
 .Gradient and professional color schemes
 
  Use Cases
 
 .HR Campaigns
+
 .Employer Branding
+
 .LinkedIn / Social Media Posts
+
 .Company Career Pages
+
 .Internal HR Communications
 
 Tools (Suggested)
 
 .Canva / Figma
+
 .Adobe Photoshop / Illustrator
+
 .PowerPoint (for simple edits)
 
  Folder Structure
